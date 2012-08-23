@@ -9,7 +9,7 @@
 <script language="javascript">
 	location.href="http://www.tangotab.com";
 </script>
-<p></p>
+
 <body>
 </body>
 </html>
