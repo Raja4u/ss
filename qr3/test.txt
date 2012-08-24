@@ -1,5 +1,5 @@
 some text
-<<<<<<< HEAD
+
 some comflicts data to be added
 =======
 some other text
