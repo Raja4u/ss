@@ -1,1 +1,6 @@
-new data
+some text
+<<<<<<< HEAD
+some comflicts data to be added
+=======
+some other text
+>>>>>>> 60805a846e4bc509df1a4b8f9def3314966d1456
